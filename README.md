@@ -16,7 +16,7 @@
 
 - 💬 Ask me about `Database, OS, Linux, DSA, JS, HTML, CSS.`
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1xq_k1XF1psjgAUGUJOTQKLrA1cdVqJ4D/view?usp=share_link](https://drive.google.com/file/d/1V6Rg2Ef5Mlzgc4ihsP8DhzJ-xoeu5oTB/view?usp=sharing)">Anant's Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1V6Rg2Ef5Mlzgc4ihsP8DhzJ-xoeu5oTB/view?usp=sharing">Anant's Resume</a>
 - 📮 Connect With Me On <a href="www.linkedin.com/in/anantprasad">LinkedIn</a>
 
 
