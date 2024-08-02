@@ -7,6 +7,9 @@
 
 <div>
 
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width = "50%" height= "270" align = "right">
+
+
 - 📨 Email ID : **anantp098@gmail.com**
 
 - 💎 I’m currently `Aspiring Engineer`
