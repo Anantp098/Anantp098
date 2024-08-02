@@ -17,7 +17,7 @@
 - 💬 Ask me about `Database, OS, Linux, DSA, JS, HTML, CSS.`
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ew0znpKnuADUh2zX9jo5sPqlPPji1sbV/view?usp=sharing">Anant's Resume</a>
-- 📮 Connect With Me On <a href="www.linkedin.com/in/anantprasad">LinkedIn</a>
+- 📮 Connect With Me On <a href="https://www.linkedin.com/in/anantprasad">LinkedIn</a>
 
 
 <img align="left" width="50" alt="tools" src="https://www.svgrepo.com/show/489652/tools-for-reparing.svg" />
