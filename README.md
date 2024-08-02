@@ -16,8 +16,8 @@
 
 - 💬 Ask me about `Database, OS, Linux, DSA, JS, HTML, CSS.`
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xq_k1XF1psjgAUGUJOTQKLrA1cdVqJ4D/view?usp=share_link">Anant's Resume</a>
-- 📮 Connect With Me On <a href="https://www.linkedin.com/in/rajdeep-kumar-0217241ba">LinkedIn</a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1xq_k1XF1psjgAUGUJOTQKLrA1cdVqJ4D/view?usp=share_link](https://drive.google.com/file/d/1V6Rg2Ef5Mlzgc4ihsP8DhzJ-xoeu5oTB/view?usp=sharing)">Anant's Resume</a>
+- 📮 Connect With Me On <a href="www.linkedin.com/in/anantprasad">LinkedIn</a>
 
 
 <img align="left" width="50" alt="tools" src="https://www.svgrepo.com/show/489652/tools-for-reparing.svg" />
